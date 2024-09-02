@@ -1660,3 +1660,9 @@ scrollkit.com,*.scrollkit.com
 *.concretecms.org
 *.rubyonrails.org
 https://www.*.nba.com
+*.8x8.co.uk
+*.8x8.com
+*.8x8.uk
+*.8x8e2e.com
+*.8x8pilot.com
+*.ucverse.com
