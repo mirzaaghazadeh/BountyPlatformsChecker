@@ -21194,3 +21194,6 @@ www.blueapron.com
 adobeid-na1.services.adobe.com
 http://federatedid-na1.services.adobe.com
 http://ims-na1.adobelogin.com
+bestfiends.com
+gnocchi-www.buffalo-ggn.net
+sm-php-smid-dsa.slotomania.com,sm-php-smid.slotomania.com,sm-php-smid-va2.slotomania.com,vs-fb-php-p1.playtika.com,sm-php.playtika.com
