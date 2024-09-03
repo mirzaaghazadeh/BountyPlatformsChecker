@@ -1683,3 +1683,6 @@ https://www.*.nba.com
 *.governorofpoker.com
 *.algolia.net
 *.algolianet.com
+https://*.database.dev/
+db.*.supabase.co
+https://*.supabase.co

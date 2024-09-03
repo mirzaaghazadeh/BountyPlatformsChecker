@@ -21201,3 +21201,11 @@ http://h1-your-domain.zendesk.com/qa/
 http://h1-your-domain.zendesk.com/wfm/
 dashboard.algolia.com
 www.algolia.com
+api.supabase.com
+https://multiplayer.dev
+https://supabase.help
+https://supabase.link
+https://supabase.store
+supabase.com
+https://supabase.dev/
+https://supabase.productions/
