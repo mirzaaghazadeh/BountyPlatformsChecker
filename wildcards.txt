@@ -1681,3 +1681,5 @@ https://www.*.nba.com
 *.awards.slotomania.com
 *.gop3.nl
 *.governorofpoker.com
+*.algolia.net
+*.algolianet.com
