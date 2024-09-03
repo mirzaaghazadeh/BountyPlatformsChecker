@@ -21197,3 +21197,5 @@ http://ims-na1.adobelogin.com
 bestfiends.com
 gnocchi-www.buffalo-ggn.net
 sm-php-smid-dsa.slotomania.com,sm-php-smid.slotomania.com,sm-php-smid-va2.slotomania.com,vs-fb-php-p1.playtika.com,sm-php.playtika.com
+http://h1-your-domain.zendesk.com/qa/
+http://h1-your-domain.zendesk.com/wfm/
