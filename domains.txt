@@ -21214,3 +21214,5 @@ https://forestry.deere.com/dealers/salesreport/
 example.com
 access-sandbox.remitly.com
 access.remitly.com
+bantotal-ar-cert.deere.com
+bpeople-ar-prod.deere.com
