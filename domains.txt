@@ -21216,3 +21216,4 @@ access-sandbox.remitly.com
 access.remitly.com
 bantotal-ar-cert.deere.com
 bpeople-ar-prod.deere.com
+https://api.supabase.com/platform/pg-meta/project_id/query
