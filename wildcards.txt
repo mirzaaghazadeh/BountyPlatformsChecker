@@ -1686,3 +1686,7 @@ https://www.*.nba.com
 https://*.database.dev/
 db.*.supabase.co
 https://*.supabase.co
+https://*.khealth.com
+https://*.khealth.io/
+https://*.khealth.us/
+http://*.hydrogenhealth.com
