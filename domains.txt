@@ -21931,3 +21931,6 @@ xtractresearch.com
 xtractresearch.net
 xtractsubscriber.net
 edition.in
+api.watsons.vn
+www.watsons.vn
+www10.watsons.vn
