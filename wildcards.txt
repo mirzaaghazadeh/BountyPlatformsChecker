@@ -2369,3 +2369,4 @@ http://*.hydrogenhealth.com
 *.xtractlatam.com
 *.xtractresearch.net
 *.xtractsubscriber.net
+*.insight.ly
