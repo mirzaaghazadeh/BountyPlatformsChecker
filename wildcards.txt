@@ -3049,3 +3049,4 @@ http://*.hydrogenhealth.com
 *.xtractlatam.com
 *.xtractresearch.net
 *.xtractsubscriber.net
+*.lostark.games.aws.dev

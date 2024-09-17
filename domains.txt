@@ -22652,3 +22652,10 @@ xtractlatam.com
 xtractresearch.com
 xtractresearch.net
 xtractsubscriber.net
+admin.wickr.com
+bugsnag.wickr.com
+forums.newworld.com
+https://github.com/aws-samples
+support.wickr.com
+www.awseducate.com
+www.wickr.com
