@@ -3051,3 +3051,4 @@ http://*.hydrogenhealth.com
 *.xtractsubscriber.net
 *.lostark.games.aws.dev
 *.transunion.com.do
+*.rocketball.com
