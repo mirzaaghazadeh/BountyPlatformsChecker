@@ -3054,3 +3054,4 @@ http://*.hydrogenhealth.com
 *.rocketball.com
 *.travix.com
 *.travix.io
+https://www.mactag.com/*
